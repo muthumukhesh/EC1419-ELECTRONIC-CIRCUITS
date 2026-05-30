@@ -6,5 +6,9 @@
 
 
 ## TINKER CAD OUTPUT CIRCUIT
+<img width="1428" height="678" alt="EC EXP4-2" src="https://github.com/user-attachments/assets/0203e05b-2fed-4e01-9b94-0a2cf7ab6b6d" />
+<img width="1436" height="697" alt="EC EXP 4 -1" src="https://github.com/user-attachments/assets/f1bc46f0-d029-433f-bbaf-28347ea2385b" />
+
+
 
 <img width="831" height="157" alt="image" src="https://github.com/user-attachments/assets/08c25fa5-a963-4100-8ea2-4c7e2669bb49" />
