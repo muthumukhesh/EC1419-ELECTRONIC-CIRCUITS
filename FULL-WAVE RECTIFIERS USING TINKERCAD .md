@@ -5,5 +5,8 @@
 
 
 ## TINKER CAD CIRCUIT DIAGRAM
+<img width="1427" height="701" alt="EC EXP 5" src="https://github.com/user-attachments/assets/55d73d12-d004-444f-9ba7-e39cd1f06e90" />
+
+
 
 <img width="860" height="227" alt="image" src="https://github.com/user-attachments/assets/2cd08752-9469-424d-8283-a306c0ccac15" />
