@@ -10,6 +10,9 @@
 
 ## Graph
 
+<img width="1600" height="900" alt="EC-EXP3" src="https://github.com/user-attachments/assets/4a41a748-7228-4bf9-96ba-873b21c291a3" />
+
+
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
 
