@@ -16,8 +16,7 @@
 ## Tabulation
 
 ## Graph
-
-<img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
+<img width="1600" height="748" alt="EC-EXP 2 NEW" src="https://github.com/user-attachments/assets/5c779c89-7ca1-41d9-b928-136e1f4395c1" />
 
 Practical frequency of Oscillation =
 
