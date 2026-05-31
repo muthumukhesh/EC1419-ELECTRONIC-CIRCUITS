@@ -10,5 +10,8 @@
 # Tabulation with readings
 
 ## Semilog plotted Graph
+<img width="1202" height="1600" alt="ec exp 8" src="https://github.com/user-attachments/assets/368e4578-b4f4-418b-8095-2c432540477f" />
+
+
 
 <img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
