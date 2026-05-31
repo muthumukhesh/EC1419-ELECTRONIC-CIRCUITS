@@ -10,4 +10,7 @@
 
 ## Semilog Graph
 
+<img width="1027" height="1284" alt="ec exp 7" src="https://github.com/user-attachments/assets/611b9f86-7982-442c-8abd-85940fa67118" />
+
+
 <img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
