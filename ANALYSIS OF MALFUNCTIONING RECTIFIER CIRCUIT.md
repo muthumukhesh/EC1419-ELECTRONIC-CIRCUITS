@@ -7,6 +7,7 @@
 ## ATTACH THE CORRECT CIRCUIT
 
 ## GRAPHS
+<img width="1080" height="1397" alt="ec exp 6" src="https://github.com/user-attachments/assets/55dfd2db-596b-4b8a-b990-76f84181bd0c" />
 
 
 <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
